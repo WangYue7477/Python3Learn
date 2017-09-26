@@ -36,5 +36,5 @@ def str2float(s):
     return str2int(f_temp) / (10 ** n)
 
 
-L = '123.45798936'
+L = '123.456'
 print(str2float(L))
