@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2017/9/26 12:42
 # @Author  : WangYue
-# @File    : reducetest.py
+# @File    : reducelearn.py
 # @Software: PyCharm Community Edition
 
 from functools import reduce
