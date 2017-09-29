@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2017/9/11 22:59
 # @Author  : WangYue
-# @File    : HighorderFuntion.py
+# @File    : HighorderFuntionLearn.py
 # @Software: PyCharm Community Edition
 def poewr2(x, y):
     return x+y
