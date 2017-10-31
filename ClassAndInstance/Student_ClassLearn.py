@@ -26,3 +26,7 @@ print(jim.age)
 jim.print_age()
 print(jim.get_age())
 
+jim.name = 'JIM'
+print(jim.name)
+
+
